@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+dist/
+*.egg-info/
+
+# uv
+uv.lock
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Data (raw downloads can be large)
+data/raw/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
