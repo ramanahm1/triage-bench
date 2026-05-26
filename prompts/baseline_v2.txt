@@ -1,3 +1,9 @@
+# Few-shot sources (all from issues_train.csv, verified no leakage against test.jsonl by title + id, 2026-05-26):
+# [bug]     microsoft/vscode_2023-09-28 20:31:47
+# [feature] opencv/opencv_2023-03-26 07:31:09
+# [question] opencv/opencv_2022-02-02 14:39:36
+# [question] opencv/opencv_2022-05-16 03:05:42
+
 Classify the following GitHub issue into exactly one of: bug, feature, question.
 
 Definitions:
