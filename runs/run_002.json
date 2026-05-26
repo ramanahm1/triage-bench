@@ -1,0 +1,1811 @@
+{
+  "meta": {
+    "model": "claude-haiku-4-5-20251001",
+    "prompt_version": "baseline_v2",
+    "prompt_path": "prompts/baseline_v2.txt",
+    "timestamp": "2026-05-26T12:44:32.413154+00:00",
+    "n": 200
+  },
+  "results": [
+    {
+      "id": "tensorflow/tensorflow_2023-05-10 11:46:30",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1002,
+      "output_tokens": 4,
+      "latency_s": 0.928,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2018-12-26 03:12:15",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 770,
+      "output_tokens": 4,
+      "latency_s": 1.061,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2020-09-06 11:47:30",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1087,
+      "output_tokens": 4,
+      "latency_s": 0.957,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-06-19 11:45:23",
+      "label": "bug",
+      "prediction": "question",
+      "input_tokens": 1023,
+      "output_tokens": 4,
+      "latency_s": 0.951,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2022-08-30 20:33:41",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 983,
+      "output_tokens": 4,
+      "latency_s": 0.696,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2021-04-01 13:16:08",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 788,
+      "output_tokens": 4,
+      "latency_s": 0.589,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2023-06-07 17:26:43",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1008,
+      "output_tokens": 4,
+      "latency_s": 0.707,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2021-12-15 07:24:39",
+      "label": "feature",
+      "prediction": "question",
+      "input_tokens": 750,
+      "output_tokens": 4,
+      "latency_s": 1.825,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2019-07-24 03:05:54",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 842,
+      "output_tokens": 4,
+      "latency_s": 3.185,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2018-02-19 09:59:43",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 958,
+      "output_tokens": 4,
+      "latency_s": 1.218,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-08-06 16:34:24",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 1012,
+      "output_tokens": 4,
+      "latency_s": 1.873,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-09-26 05:14:01",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 950,
+      "output_tokens": 4,
+      "latency_s": 4.099,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2023-02-20 16:32:21",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1059,
+      "output_tokens": 4,
+      "latency_s": 2.145,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2022-11-13 19:38:32",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1049,
+      "output_tokens": 4,
+      "latency_s": 0.554,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2023-08-27 21:14:53",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 845,
+      "output_tokens": 4,
+      "latency_s": 0.866,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2022-03-17 18:11:44",
+      "label": "question",
+      "prediction": "bug",
+      "input_tokens": 1061,
+      "output_tokens": 4,
+      "latency_s": 0.629,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-02-07 15:00:03",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 811,
+      "output_tokens": 4,
+      "latency_s": 0.558,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-06-22 19:55:23",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 795,
+      "output_tokens": 4,
+      "latency_s": 1.465,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2018-09-21 01:39:46",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 989,
+      "output_tokens": 4,
+      "latency_s": 0.673,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-09-23 13:56:17",
+      "label": "bug",
+      "prediction": "question",
+      "input_tokens": 1056,
+      "output_tokens": 4,
+      "latency_s": 0.786,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-04-15 01:28:54",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1036,
+      "output_tokens": 4,
+      "latency_s": 1.097,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-06-30 16:50:24",
+      "label": "bug",
+      "prediction": "question",
+      "input_tokens": 981,
+      "output_tokens": 4,
+      "latency_s": 0.949,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2022-12-11 15:12:55",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1023,
+      "output_tokens": 4,
+      "latency_s": 0.578,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-08-15 02:03:40",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1040,
+      "output_tokens": 4,
+      "latency_s": 0.811,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2023-08-07 20:09:16",
+      "label": "bug",
+      "prediction": "feature",
+      "input_tokens": 992,
+      "output_tokens": 4,
+      "latency_s": 0.75,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-08-12 19:32:57",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1105,
+      "output_tokens": 4,
+      "latency_s": 0.513,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2019-12-23 17:38:13",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 818,
+      "output_tokens": 4,
+      "latency_s": 0.777,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-08-25 07:37:33",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1047,
+      "output_tokens": 4,
+      "latency_s": 1.139,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2023-03-22 18:12:35",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 956,
+      "output_tokens": 4,
+      "latency_s": 0.803,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-08-29 17:46:50",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 837,
+      "output_tokens": 4,
+      "latency_s": 0.593,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-06-15 11:55:58",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 871,
+      "output_tokens": 4,
+      "latency_s": 0.728,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-04-03 23:09:21",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 990,
+      "output_tokens": 4,
+      "latency_s": 0.492,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2019-04-10 12:31:13",
+      "label": "question",
+      "prediction": "bug",
+      "input_tokens": 1013,
+      "output_tokens": 4,
+      "latency_s": 0.639,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-09-21 10:20:13",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 788,
+      "output_tokens": 4,
+      "latency_s": 0.786,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-08-14 22:25:16",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1041,
+      "output_tokens": 4,
+      "latency_s": 1.189,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-08-09 17:59:16",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1096,
+      "output_tokens": 4,
+      "latency_s": 0.76,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2023-03-24 10:48:01",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 985,
+      "output_tokens": 4,
+      "latency_s": 0.935,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2023-08-28 03:22:52",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 977,
+      "output_tokens": 4,
+      "latency_s": 1.292,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-08-10 21:48:51",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1053,
+      "output_tokens": 4,
+      "latency_s": 0.752,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2018-09-14 05:34:29",
+      "label": "question",
+      "prediction": "feature",
+      "input_tokens": 986,
+      "output_tokens": 4,
+      "latency_s": 1.29,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2022-02-20 14:28:41",
+      "label": "feature",
+      "prediction": "question",
+      "input_tokens": 749,
+      "output_tokens": 4,
+      "latency_s": 0.935,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2023-08-19 11:12:13",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1090,
+      "output_tokens": 4,
+      "latency_s": 1.732,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-03-06 19:53:52",
+      "label": "bug",
+      "prediction": "question",
+      "input_tokens": 1112,
+      "output_tokens": 4,
+      "latency_s": 1.91,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-04-22 19:07:10",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1174,
+      "output_tokens": 4,
+      "latency_s": 1.918,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-06-28 17:41:26",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1110,
+      "output_tokens": 4,
+      "latency_s": 1.893,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2022-07-26 02:00:42",
+      "label": "feature",
+      "prediction": "question",
+      "input_tokens": 1005,
+      "output_tokens": 4,
+      "latency_s": 2.905,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-09-14 12:06:09",
+      "label": "question",
+      "prediction": "feature",
+      "input_tokens": 860,
+      "output_tokens": 4,
+      "latency_s": 1.85,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2018-06-21 12:57:54",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 953,
+      "output_tokens": 4,
+      "latency_s": 3.143,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2022-05-16 11:02:29",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 987,
+      "output_tokens": 4,
+      "latency_s": 1.143,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2022-12-05 13:25:59",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 951,
+      "output_tokens": 4,
+      "latency_s": 0.828,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-07-06 11:34:54",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1020,
+      "output_tokens": 4,
+      "latency_s": 1.226,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2022-09-20 13:11:21",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 991,
+      "output_tokens": 4,
+      "latency_s": 0.65,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2020-10-28 18:03:25",
+      "label": "question",
+      "prediction": "bug",
+      "input_tokens": 1122,
+      "output_tokens": 4,
+      "latency_s": 0.8,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-07-13 13:03:01",
+      "label": "bug",
+      "prediction": "question",
+      "input_tokens": 788,
+      "output_tokens": 4,
+      "latency_s": 0.646,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2023-04-28 09:35:07",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1004,
+      "output_tokens": 4,
+      "latency_s": 3.86,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-04-25 15:04:18",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 830,
+      "output_tokens": 4,
+      "latency_s": 0.542,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2022-07-20 02:26:59",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 1067,
+      "output_tokens": 4,
+      "latency_s": 1.714,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-09-26 15:35:14",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 841,
+      "output_tokens": 4,
+      "latency_s": 0.802,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2019-01-18 15:23:59",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 975,
+      "output_tokens": 4,
+      "latency_s": 0.514,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2019-04-05 04:53:16",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 985,
+      "output_tokens": 4,
+      "latency_s": 0.697,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2022-05-17 21:40:50",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 938,
+      "output_tokens": 4,
+      "latency_s": 0.601,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2022-09-23 13:06:06",
+      "label": "feature",
+      "prediction": "question",
+      "input_tokens": 975,
+      "output_tokens": 4,
+      "latency_s": 0.683,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2023-01-30 13:26:05",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 975,
+      "output_tokens": 4,
+      "latency_s": 0.828,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-05-07 17:48:03",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 997,
+      "output_tokens": 4,
+      "latency_s": 0.731,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2022-05-19 06:17:14",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1072,
+      "output_tokens": 4,
+      "latency_s": 0.722,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-06-21 14:52:48",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 884,
+      "output_tokens": 4,
+      "latency_s": 0.717,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2022-09-27 09:58:43",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 973,
+      "output_tokens": 4,
+      "latency_s": 0.848,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2021-10-05 13:39:37",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 779,
+      "output_tokens": 4,
+      "latency_s": 0.604,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-09-11 09:59:46",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 1449,
+      "output_tokens": 4,
+      "latency_s": 0.82,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2018-08-26 13:10:45",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 912,
+      "output_tokens": 4,
+      "latency_s": 6.592,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-06-19 19:28:28",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1006,
+      "output_tokens": 4,
+      "latency_s": 0.556,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-07-06 19:39:33",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 954,
+      "output_tokens": 4,
+      "latency_s": 1.343,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2019-04-12 20:01:40",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 980,
+      "output_tokens": 4,
+      "latency_s": 4.831,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-11-01 11:49:08",
+      "label": "question",
+      "prediction": "bug",
+      "input_tokens": 973,
+      "output_tokens": 4,
+      "latency_s": 0.586,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2023-06-23 13:24:38",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 912,
+      "output_tokens": 4,
+      "latency_s": 0.608,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-06-06 08:35:05",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 985,
+      "output_tokens": 4,
+      "latency_s": 0.701,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2022-11-16 18:11:12",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 953,
+      "output_tokens": 4,
+      "latency_s": 2.951,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-07-13 09:00:42",
+      "label": "question",
+      "prediction": "bug",
+      "input_tokens": 1025,
+      "output_tokens": 4,
+      "latency_s": 0.821,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2021-04-09 19:52:28",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 905,
+      "output_tokens": 4,
+      "latency_s": 0.749,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2022-11-24 02:23:02",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 929,
+      "output_tokens": 4,
+      "latency_s": 3.2,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-07-17 17:05:21",
+      "label": "question",
+      "prediction": "bug",
+      "input_tokens": 1072,
+      "output_tokens": 4,
+      "latency_s": 1.139,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2022-05-11 08:52:21",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1019,
+      "output_tokens": 4,
+      "latency_s": 1.943,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2019-04-18 09:59:04",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 830,
+      "output_tokens": 4,
+      "latency_s": 2.885,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2016-07-19 01:08:47",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 859,
+      "output_tokens": 4,
+      "latency_s": 0.676,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2023-07-10 11:43:12",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1023,
+      "output_tokens": 4,
+      "latency_s": 0.876,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2023-03-14 19:55:26",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1062,
+      "output_tokens": 4,
+      "latency_s": 0.658,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2020-12-29 04:14:52",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 856,
+      "output_tokens": 4,
+      "latency_s": 0.925,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2022-11-10 10:57:12",
+      "label": "feature",
+      "prediction": "question",
+      "input_tokens": 1103,
+      "output_tokens": 4,
+      "latency_s": 0.698,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-08-24 09:56:18",
+      "label": "question",
+      "prediction": "feature",
+      "input_tokens": 938,
+      "output_tokens": 4,
+      "latency_s": 0.525,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-12-08 20:07:25",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 794,
+      "output_tokens": 4,
+      "latency_s": 3.188,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2022-01-24 13:48:42",
+      "label": "feature",
+      "prediction": "question",
+      "input_tokens": 972,
+      "output_tokens": 4,
+      "latency_s": 1.092,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-08-01 15:08:15",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1013,
+      "output_tokens": 4,
+      "latency_s": 0.753,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2023-01-07 14:39:37",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 1022,
+      "output_tokens": 4,
+      "latency_s": 0.608,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2022-07-05 03:46:47",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1054,
+      "output_tokens": 4,
+      "latency_s": 0.771,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-08-26 15:17:24",
+      "label": "bug",
+      "prediction": "question",
+      "input_tokens": 1050,
+      "output_tokens": 4,
+      "latency_s": 0.649,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-04-25 10:49:31",
+      "label": "feature",
+      "prediction": "question",
+      "input_tokens": 932,
+      "output_tokens": 4,
+      "latency_s": 0.627,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2019-09-15 21:27:16",
+      "label": "question",
+      "prediction": "bug",
+      "input_tokens": 1101,
+      "output_tokens": 4,
+      "latency_s": 0.655,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2022-01-16 14:57:01",
+      "label": "bug",
+      "prediction": "question",
+      "input_tokens": 975,
+      "output_tokens": 4,
+      "latency_s": 0.665,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2022-06-22 12:10:01",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 900,
+      "output_tokens": 4,
+      "latency_s": 1.032,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-08-19 01:55:54",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 836,
+      "output_tokens": 4,
+      "latency_s": 0.958,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-01-27 12:57:33",
+      "label": "feature",
+      "prediction": "question",
+      "input_tokens": 941,
+      "output_tokens": 4,
+      "latency_s": 3.311,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2022-05-17 02:53:44",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 831,
+      "output_tokens": 4,
+      "latency_s": 1.798,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-08-21 15:11:42",
+      "label": "bug",
+      "prediction": "question",
+      "input_tokens": 1011,
+      "output_tokens": 4,
+      "latency_s": 0.622,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2022-01-17 09:55:18",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 985,
+      "output_tokens": 4,
+      "latency_s": 1.249,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2022-03-22 06:19:18",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1056,
+      "output_tokens": 4,
+      "latency_s": 0.819,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-06-28 16:38:51",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 753,
+      "output_tokens": 4,
+      "latency_s": 0.695,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-09-11 07:33:42",
+      "label": "question",
+      "prediction": "feature",
+      "input_tokens": 899,
+      "output_tokens": 4,
+      "latency_s": 1.204,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-01-10 11:57:02",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1010,
+      "output_tokens": 4,
+      "latency_s": 0.918,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2022-12-13 11:39:55",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1001,
+      "output_tokens": 4,
+      "latency_s": 2.284,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2022-04-12 23:36:02",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 980,
+      "output_tokens": 4,
+      "latency_s": 0.644,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-04-04 13:30:08",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 826,
+      "output_tokens": 4,
+      "latency_s": 1.228,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-08-29 20:07:40",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 770,
+      "output_tokens": 4,
+      "latency_s": 1.131,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-08-29 13:23:07",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 771,
+      "output_tokens": 4,
+      "latency_s": 0.853,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2023-02-17 16:08:59",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 999,
+      "output_tokens": 4,
+      "latency_s": 3.115,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2023-02-27 06:57:14",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 942,
+      "output_tokens": 4,
+      "latency_s": 0.493,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2020-08-26 01:38:38",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 953,
+      "output_tokens": 4,
+      "latency_s": 1.785,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2021-08-16 10:29:42",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 969,
+      "output_tokens": 4,
+      "latency_s": 2.515,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-09-20 13:27:41",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1064,
+      "output_tokens": 4,
+      "latency_s": 1.954,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2022-08-16 19:31:10",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1058,
+      "output_tokens": 4,
+      "latency_s": 2.055,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2018-12-03 01:04:57",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 777,
+      "output_tokens": 4,
+      "latency_s": 3.544,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2016-04-05 04:54:27",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 773,
+      "output_tokens": 4,
+      "latency_s": 0.842,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2019-10-10 20:38:31",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 744,
+      "output_tokens": 4,
+      "latency_s": 1.978,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2020-07-27 23:59:30",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 894,
+      "output_tokens": 4,
+      "latency_s": 0.752,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2023-06-27 06:46:50",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 952,
+      "output_tokens": 4,
+      "latency_s": 0.937,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-08-22 15:28:19",
+      "label": "question",
+      "prediction": "bug",
+      "input_tokens": 935,
+      "output_tokens": 4,
+      "latency_s": 0.963,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2022-10-26 21:57:42",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 882,
+      "output_tokens": 4,
+      "latency_s": 0.577,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2019-02-28 05:16:43",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1052,
+      "output_tokens": 4,
+      "latency_s": 1.087,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2022-11-03 16:02:27",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1073,
+      "output_tokens": 4,
+      "latency_s": 0.863,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2022-01-26 08:53:15",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 966,
+      "output_tokens": 4,
+      "latency_s": 1.032,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2023-04-14 12:52:32",
+      "label": "bug",
+      "prediction": "question",
+      "input_tokens": 1030,
+      "output_tokens": 4,
+      "latency_s": 0.663,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2019-06-24 09:29:45",
+      "label": "question",
+      "prediction": "bug",
+      "input_tokens": 1007,
+      "output_tokens": 4,
+      "latency_s": 0.624,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2022-11-18 03:47:37",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 794,
+      "output_tokens": 4,
+      "latency_s": 0.7,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-04-27 15:36:53",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1033,
+      "output_tokens": 4,
+      "latency_s": 0.864,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2020-01-26 12:30:09",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 837,
+      "output_tokens": 4,
+      "latency_s": 0.525,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-09-28 04:13:06",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1085,
+      "output_tokens": 4,
+      "latency_s": 1.341,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-09-26 13:42:32",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 782,
+      "output_tokens": 4,
+      "latency_s": 0.89,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2022-06-05 03:26:15",
+      "label": "bug",
+      "prediction": "question",
+      "input_tokens": 920,
+      "output_tokens": 4,
+      "latency_s": 0.602,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2022-04-12 15:27:31",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1007,
+      "output_tokens": 4,
+      "latency_s": 1.89,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-05-06 14:25:41",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1042,
+      "output_tokens": 4,
+      "latency_s": 0.745,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-08-30 21:21:21",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 829,
+      "output_tokens": 4,
+      "latency_s": 0.861,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-08-17 22:01:13",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1062,
+      "output_tokens": 4,
+      "latency_s": 0.753,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2021-12-24 21:31:31",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 1017,
+      "output_tokens": 4,
+      "latency_s": 0.556,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2023-02-10 17:36:03",
+      "label": "bug",
+      "prediction": "question",
+      "input_tokens": 875,
+      "output_tokens": 4,
+      "latency_s": 0.726,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-09-17 20:40:50",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 868,
+      "output_tokens": 4,
+      "latency_s": 0.854,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2022-07-27 06:25:25",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 865,
+      "output_tokens": 4,
+      "latency_s": 0.835,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-08-22 09:38:14",
+      "label": "bug",
+      "prediction": "question",
+      "input_tokens": 992,
+      "output_tokens": 4,
+      "latency_s": 0.512,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2021-08-10 18:05:22",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 770,
+      "output_tokens": 4,
+      "latency_s": 0.49,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-06-27 06:55:27",
+      "label": "feature",
+      "prediction": "question",
+      "input_tokens": 1059,
+      "output_tokens": 4,
+      "latency_s": 0.845,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2021-07-12 01:25:09",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 954,
+      "output_tokens": 4,
+      "latency_s": 2.068,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-09-08 11:38:19",
+      "label": "question",
+      "prediction": "feature",
+      "input_tokens": 842,
+      "output_tokens": 4,
+      "latency_s": 1.866,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2018-09-03 16:20:27",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 980,
+      "output_tokens": 4,
+      "latency_s": 0.719,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2020-08-06 22:26:26",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 770,
+      "output_tokens": 4,
+      "latency_s": 3.236,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-07-10 18:41:30",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1068,
+      "output_tokens": 4,
+      "latency_s": 2.096,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-07-01 18:09:08",
+      "label": "question",
+      "prediction": "bug",
+      "input_tokens": 1015,
+      "output_tokens": 4,
+      "latency_s": 0.841,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2023-08-24 13:54:05",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 825,
+      "output_tokens": 4,
+      "latency_s": 1.045,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-08-02 16:32:18",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 781,
+      "output_tokens": 4,
+      "latency_s": 0.931,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2021-08-27 07:32:01",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 859,
+      "output_tokens": 4,
+      "latency_s": 0.733,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2022-01-13 02:00:48",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 859,
+      "output_tokens": 4,
+      "latency_s": 0.729,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-03-05 08:33:57",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 975,
+      "output_tokens": 4,
+      "latency_s": 0.832,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2021-12-15 04:44:55",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 736,
+      "output_tokens": 4,
+      "latency_s": 0.67,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2022-08-23 07:25:00",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1073,
+      "output_tokens": 4,
+      "latency_s": 0.743,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-02-17 10:23:10",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 997,
+      "output_tokens": 4,
+      "latency_s": 0.556,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-07-13 15:01:38",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1030,
+      "output_tokens": 4,
+      "latency_s": 0.841,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2023-06-20 01:37:29",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 986,
+      "output_tokens": 4,
+      "latency_s": 0.735,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-07-19 09:54:26",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1001,
+      "output_tokens": 4,
+      "latency_s": 1.218,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2023-02-23 04:42:56",
+      "label": "bug",
+      "prediction": "question",
+      "input_tokens": 952,
+      "output_tokens": 4,
+      "latency_s": 0.715,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2023-05-17 14:24:16",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 1040,
+      "output_tokens": 4,
+      "latency_s": 0.779,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-09-07 13:12:58",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 840,
+      "output_tokens": 4,
+      "latency_s": 0.879,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-08-18 00:37:29",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1047,
+      "output_tokens": 4,
+      "latency_s": 0.906,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-04-14 02:06:39",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1004,
+      "output_tokens": 4,
+      "latency_s": 0.67,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2021-10-14 08:42:06",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 766,
+      "output_tokens": 4,
+      "latency_s": 1.567,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2023-06-10 05:18:46",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1061,
+      "output_tokens": 4,
+      "latency_s": 0.963,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2023-06-04 11:02:26",
+      "label": "bug",
+      "prediction": "question",
+      "input_tokens": 1075,
+      "output_tokens": 4,
+      "latency_s": 0.93,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-03-02 01:48:09",
+      "label": "feature",
+      "prediction": "bug",
+      "input_tokens": 1024,
+      "output_tokens": 4,
+      "latency_s": 0.748,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2017-01-15 17:26:32",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 951,
+      "output_tokens": 4,
+      "latency_s": 0.58,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-07-29 15:18:04",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1005,
+      "output_tokens": 4,
+      "latency_s": 0.887,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-08-14 23:16:28",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1051,
+      "output_tokens": 4,
+      "latency_s": 0.852,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2022-05-31 20:55:14",
+      "label": "feature",
+      "prediction": "question",
+      "input_tokens": 1024,
+      "output_tokens": 4,
+      "latency_s": 0.823,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2022-12-05 09:14:35",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 961,
+      "output_tokens": 4,
+      "latency_s": 0.682,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-06-14 14:15:37",
+      "label": "question",
+      "prediction": "bug",
+      "input_tokens": 1075,
+      "output_tokens": 4,
+      "latency_s": 0.848,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-08-30 14:45:45",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 850,
+      "output_tokens": 4,
+      "latency_s": 0.744,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-02-02 00:30:03",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1021,
+      "output_tokens": 4,
+      "latency_s": 1.913,
+      "error": null
+    },
+    {
+      "id": "microsoft/vscode_2023-08-06 19:13:37",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 1053,
+      "output_tokens": 4,
+      "latency_s": 0.908,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-07-12 05:48:51",
+      "label": "bug",
+      "prediction": "question",
+      "input_tokens": 1036,
+      "output_tokens": 4,
+      "latency_s": 0.656,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-06-12 10:07:16",
+      "label": "feature",
+      "prediction": "question",
+      "input_tokens": 1020,
+      "output_tokens": 4,
+      "latency_s": 0.558,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2021-12-05 23:35:15",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1105,
+      "output_tokens": 4,
+      "latency_s": 10.327,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2023-07-21 13:14:22",
+      "label": "bug",
+      "prediction": "question",
+      "input_tokens": 1036,
+      "output_tokens": 4,
+      "latency_s": 0.755,
+      "error": null
+    },
+    {
+      "id": "opencv/opencv_2022-07-10 01:27:37",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 859,
+      "output_tokens": 4,
+      "latency_s": 2.195,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-09-03 03:57:31",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 950,
+      "output_tokens": 4,
+      "latency_s": 1.677,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2019-09-02 18:49:15",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 988,
+      "output_tokens": 4,
+      "latency_s": 2.693,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2019-02-09 08:44:57",
+      "label": "feature",
+      "prediction": "bug",
+      "input_tokens": 860,
+      "output_tokens": 4,
+      "latency_s": 2.197,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2019-01-26 20:39:04",
+      "label": "question",
+      "prediction": "bug",
+      "input_tokens": 1014,
+      "output_tokens": 4,
+      "latency_s": 2.097,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-11-10 13:16:46",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 1015,
+      "output_tokens": 4,
+      "latency_s": 1.562,
+      "error": null
+    },
+    {
+      "id": "tensorflow/tensorflow_2023-06-08 14:48:45",
+      "label": "feature",
+      "prediction": "question",
+      "input_tokens": 960,
+      "output_tokens": 4,
+      "latency_s": 0.753,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-02-19 12:46:26",
+      "label": "bug",
+      "prediction": "question",
+      "input_tokens": 749,
+      "output_tokens": 4,
+      "latency_s": 0.68,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2018-10-26 03:24:35",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 960,
+      "output_tokens": 4,
+      "latency_s": 0.709,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-07-26 20:00:18",
+      "label": "feature",
+      "prediction": "feature",
+      "input_tokens": 999,
+      "output_tokens": 4,
+      "latency_s": 0.767,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2018-08-26 20:59:00",
+      "label": "question",
+      "prediction": "feature",
+      "input_tokens": 964,
+      "output_tokens": 4,
+      "latency_s": 1.034,
+      "error": null
+    },
+    {
+      "id": "facebook/react_2021-03-31 16:09:52",
+      "label": "question",
+      "prediction": "question",
+      "input_tokens": 848,
+      "output_tokens": 4,
+      "latency_s": 0.625,
+      "error": null
+    },
+    {
+      "id": "bitcoin/bitcoin_2022-11-30 22:23:47",
+      "label": "bug",
+      "prediction": "bug",
+      "input_tokens": 840,
+      "output_tokens": 4,
+      "latency_s": 0.845,
+      "error": null
+    }
+  ]
+}
