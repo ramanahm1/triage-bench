@@ -35,9 +35,9 @@ git clone https://github.com/ramanahm1/triage-bench.git
 cd triage-bench
 uv sync
 export ANTHROPIC_API_KEY=sk-ant-...
-uv run python src/runner.py --prompt prompts/baseline_v2.txt --data data/test.jsonl --out runs/brennon_001.json
-uv run python src/scorer.py --run runs/brennon_001.json
-uv run python src/compare_runs.py --baseline runs/run_002.json --candidate runs/brennon_001.json
+uv run python src/runner.py --prompt prompts/baseline_v2.txt --data data/test.jsonl --out runs/<user_name>.json
+uv run python src/scorer.py --run runs/<user_name>_001.json
+uv run python src/compare_runs.py --baseline runs/run_002.json --candidate runs/<user_name>_001.json
 ```
 
 Requires `ANTHROPIC_API_KEY` in the environment (or `.env` file).
