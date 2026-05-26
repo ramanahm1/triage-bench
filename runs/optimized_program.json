@@ -1,0 +1,25 @@
+{
+  "classify": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "Classify the following GitHub issue into one of three categories: 'bug', 'question', or 'feature'.\n\nUse these guidelines to make your classification:\n\n**Bug**: The issue reports a malfunction, error, or unexpected behavior in the software. Look for:\n- Explicit error messages or stack traces\n- Descriptions of what went wrong versus what was expected\n- Technical failure indicators (crashes, exceptions, incorrect output)\n- Detailed reproduction steps showing how to trigger the problem\n- Language indicating something is broken or not working as intended\n\n**Question**: The issue seeks help, guidance, or clarification about how to use the software. Look for:\n- Interrogative language (questions, requests for guidance)\n- \"How to\" phrasing or asking for best practices\n- Code samples with requests for modification or explanation\n- Uncertainty about correct usage or implementation\n- Requests for documentation or examples\n\n**Feature**: The issue proposes a new capability, improvement, or enhancement to the software. Look for:\n- Suggestions for new functionality or improvements\n- Aspirational phrasing indicating desired additions\n- Comparisons to other tools or desired behavior\n- Enhancement requests that don't describe broken functionality\n- Concise proposals for making the software better\n\nFocus primarily on linguistic features (tone, error presence, language patterns) and content structure rather than technical domain knowledge. The patterns of these categories are consistent across different frameworks and domains.\n\nProvide your classification as a single word: either 'bug', 'question', or 'feature'.",
+      "fields": [
+        {
+          "prefix": "Title:",
+          "description": "issue title"
+        },
+        {
+          "prefix": "Body:",
+          "description": "issue body (may be truncated to 1000 chars)"
+        },
+        {
+          "prefix": "Label:",
+          "description": "exactly one of: bug, feature, question"
+        }
+      ]
+    },
+    "lm": null
+  }
+}

@@ -1,0 +1,35 @@
+Classify the following GitHub issue into one of three categories: 'bug', 'question', or 'feature'.
+
+Use these guidelines to make your classification:
+
+**Bug**: The issue reports a malfunction, error, or unexpected behavior in the software. Look for:
+- Explicit error messages or stack traces
+- Descriptions of what went wrong versus what was expected
+- Technical failure indicators (crashes, exceptions, incorrect output)
+- Detailed reproduction steps showing how to trigger the problem
+- Language indicating something is broken or not working as intended
+
+**Question**: The issue seeks help, guidance, or clarification about how to use the software. Look for:
+- Interrogative language (questions, requests for guidance)
+- "How to" phrasing or asking for best practices
+- Code samples with requests for modification or explanation
+- Uncertainty about correct usage or implementation
+- Requests for documentation or examples
+
+**Feature**: The issue proposes a new capability, improvement, or enhancement to the software. Look for:
+- Suggestions for new functionality or improvements
+- Aspirational phrasing indicating desired additions
+- Comparisons to other tools or desired behavior
+- Enhancement requests that don't describe broken functionality
+- Concise proposals for making the software better
+
+Focus primarily on linguistic features (tone, error presence, language patterns) and content structure rather than technical domain knowledge. The patterns of these categories are consistent across different frameworks and domains.
+
+Provide your classification as a single word: either 'bug', 'question', or 'feature'.
+
+Now classify:
+
+Title: {title}
+Body: {body}
+
+Respond with only the single word label (bug, feature, or question). No punctuation, no explanation.
