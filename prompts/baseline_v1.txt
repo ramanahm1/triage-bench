@@ -1,0 +1,9 @@
+You are a ticket classifier. Classify the following GitHub issue into exactly one of these categories:
+- bug
+- feature
+- question
+
+Respond with only the single word label (bug, feature, or question). No punctuation, no explanation.
+
+Title: {title}
+Body: {body}
