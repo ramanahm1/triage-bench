@@ -1,0 +1,31 @@
+Classify the following GitHub issue into exactly one of: bug, feature, question.
+
+Definitions:
+- bug: A well-formed defect report. The submitter describes unexpected behavior AND can articulate what they expected vs what actually happened. The problem is in the software, not in how the user is using it.
+- feature: A request for new or changed functionality that does not currently exist.
+- question: A request for help, guidance, or clarification — including troubleshooting, setup problems, and "is this right?" framing. Technical content (stack traces, version strings, error messages, code blocks) does NOT make something a bug. If the author is asking for help rather than reporting a confirmed defect, it is a question.
+
+Examples:
+
+Title: focus cell output with ctrl+down does not visually select the output
+Body: 1. run a cell to get output. 2. press ctrl+down to focus output. Expected: output is visually selected. Actual: cell container appears focused instead.
+Label: bug
+
+Title: request emplace_back() in class Mat defined in mat.hpp
+Body: C++11 introduced emplace_back into STL for in-place construction. I'd like a similar method added to the Mat class to improve performance.
+Label: feature
+
+Title: error while Compiling/running c code
+Body: Type: Bug. #include <stdio.h> #include <stdlib.h> int main() { const int MIN = 1; const int MAX = 5; int guess; int guesses; int answer; srand(time(0)); answer = rand() % MAX + MIN; do { printf("Enter your guess: "); scanf("%d",&guess); if(guess > answer) { printf("Too high!\n"); } ... The result must provide number of guesses.
+Label: question
+
+Title: SystemError: <built-in function writeTextGraph> returned NULL without setting an error when using cv2.dnn.writeTextGraph
+Body: OpenCV = 4.1.2, OS = Windows 64 Bit, Compiler = Google Colab. I created a ML model with Keras and saved it as a .pb file. I want to use it with OpenCV's DNN module (cv2.dnn_DetectionModel), so I need a .pbtxt file. Yet I keep getting the error in the title when calling cv2.dnn.writeTextGraph.
+Label: question
+
+Now classify:
+
+Title: {title}
+Body: {body}
+
+Respond with only the single word label (bug, feature, or question). No punctuation, no explanation.
