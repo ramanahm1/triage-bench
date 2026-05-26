@@ -15,8 +15,8 @@ Title: request emplace_back() in class Mat defined in mat.hpp
 Body: C++11 introduced emplace_back into STL for in-place construction. I'd like a similar method added to the Mat class to improve performance.
 Label: feature
 
-Title: error while Compiling/running c code
-Body: Type: Bug. #include <stdio.h> #include <stdlib.h> int main() { const int MIN = 1; const int MAX = 5; int guess; int guesses; int answer; srand(time(0)); answer = rand() % MAX + MIN; do { printf("Enter your guess: "); scanf("%d",&guess); if(guess > answer) { printf("Too high!\n"); } ... The result must provide number of guesses.
+Title: Warning: libmediandk.so, needed by libopencv_videoio.so, not found (try using -rpath or -rpath-link)
+Body: NDK version 19, API Level 28. cmake .. -DCMAKE_TOOLCHAIN_FILE=... -DANDROID_ABI=arm64-v8a. The make is crashing with: warning: libmediandk.so not found. I was trying to cross compile opencv for android following a tutorial. Any guidance on rectifying this will be useful.
 Label: question
 
 Title: SystemError: <built-in function writeTextGraph> returned NULL without setting an error when using cv2.dnn.writeTextGraph
